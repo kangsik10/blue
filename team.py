@@ -17,3 +17,8 @@ def f_sort(data):
 def f_desc(d):
     sorted_data = sorted(data, reverse=True)
     return sorted_data
+
+# 차순
+def c(dddd):
+    data = sorted(data, reverse=True)
+    return sort
