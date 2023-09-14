@@ -14,6 +14,6 @@ def f_sort(data):
     return sorted_data
 
 # 내림차순으로 정렬해주는 함수
-def f_desc(ds):
+def f_desc(d):
     sorted_data = sorted(data, reverse=True)
     return sorted_data
